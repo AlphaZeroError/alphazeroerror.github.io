@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Alphazeroerror</title>
   <subtitle>Thoughts, stories and ideas.</subtitle>
-  <link href="http://localhost:8080/feed.xml" rel="self"/>
-  <link href="http://localhost:8080"/>
+  <link href="https://alphazeroerror.github.io//feed.xml" rel="self"/>
+  <link href="https://alphazeroerror.github.io/"/>
   <updated></updated>
-  <id>http://localhost:8080</id>
+  <id>https://alphazeroerror.github.io/</id>
   <author>
     <name>Zero_error</name>
   </author>
   <entry>
     <title>Get Started with wireshark</title>
-    <link href="http://localhost:8080/get-started-with-wireshark/"/>
+    <link href="https://alphazeroerror.github.io//get-started-with-wireshark/"/>
     <updated></updated>
     <id></id>
     <content type="html"></content>
