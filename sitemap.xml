@@ -37,6 +37,11 @@
   </url>
   
   <url>
+    <loc>https://alphazeroerror.github.io/deploy-flask-app-heroku/</loc>
+    <lastmod>2020-05-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alphazeroerror.github.io/_redirects</loc>
     <lastmod>2020-05-10</lastmod>
   </url>
@@ -53,6 +58,16 @@
   
   <url>
     <loc>https://alphazeroerror.github.io/tag/forensics/</loc>
+    <lastmod>2020-05-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alphazeroerror.github.io/tag/python/</loc>
+    <lastmod>2020-05-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alphazeroerror.github.io/tag/webdev/</loc>
     <lastmod>2020-05-10</lastmod>
   </url>
   
