@@ -7,11 +7,18 @@
   <updated></updated>
   <id>https://alphazeroerror.github.io/</id>
   <author>
-    <name>Zero_error</name>
+    <name>Zero</name>
   </author>
   <entry>
     <title>Get Started with wireshark</title>
     <link href="https://alphazeroerror.github.io//get-started-with-wireshark/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Be aware from untrusted Browser Extensions</title>
+    <link href="https://alphazeroerror.github.io//be-aware-from-untrusted-browser-extensions/"/>
     <updated></updated>
     <id></id>
     <content type="html"></content>
